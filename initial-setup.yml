@@ -1,6 +1,6 @@
 ---
 
-- hosts: 192.168.1.62
+- hosts: 192.168.1.62 
   vars:
    - ip_address: '192.168.1.62'
   become: true
